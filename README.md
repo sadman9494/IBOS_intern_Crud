@@ -41,4 +41,26 @@ This project follows the ASP.NET Core framework and includes the following key p
 - ASP.NET Core framework
 - Entity Framework Core
 
+## screenshots
+
+#### 3 layer project structure
+![structure](./images/1.jpg)
+
+
+#### finding employee who absent for atleast 1 day
+![structure](./images/absent.jpg)
+
+#### fetching all employee information
+![structure](./images/allemployee.jpg)
+
+#### fetching all employee information based on Max to min salary
+![structure](./images/1.jpg)
+
+#### Updating the empcode [before update]
+![structure](./images/b4%20update.jpg)
+#### Updating the empcode [after update]
+![structure](./images/after.jpg)
+
+
+
 
